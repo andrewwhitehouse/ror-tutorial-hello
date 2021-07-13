@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Sample code from Ruby on Rails Tutorial.
 
 Things you may want to cover:
 
@@ -21,4 +20,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Run server local
+
+`rails server`
